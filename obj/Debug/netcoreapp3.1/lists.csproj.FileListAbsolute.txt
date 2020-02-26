@@ -1,0 +1,10 @@
+/Users/taylorcarroll/workspace/C37/lists/obj/Debug/netcoreapp3.1/lists.csprojAssemblyReference.cache
+/Users/taylorcarroll/workspace/C37/lists/obj/Debug/netcoreapp3.1/lists.AssemblyInfoInputs.cache
+/Users/taylorcarroll/workspace/C37/lists/obj/Debug/netcoreapp3.1/lists.AssemblyInfo.cs
+/Users/taylorcarroll/workspace/C37/lists/bin/Debug/netcoreapp3.1/lists.deps.json
+/Users/taylorcarroll/workspace/C37/lists/bin/Debug/netcoreapp3.1/lists.runtimeconfig.json
+/Users/taylorcarroll/workspace/C37/lists/bin/Debug/netcoreapp3.1/lists.runtimeconfig.dev.json
+/Users/taylorcarroll/workspace/C37/lists/bin/Debug/netcoreapp3.1/lists.dll
+/Users/taylorcarroll/workspace/C37/lists/bin/Debug/netcoreapp3.1/lists.pdb
+/Users/taylorcarroll/workspace/C37/lists/obj/Debug/netcoreapp3.1/lists.dll
+/Users/taylorcarroll/workspace/C37/lists/obj/Debug/netcoreapp3.1/lists.pdb
